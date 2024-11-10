@@ -1,4 +1,4 @@
-# Distribution-Aware MDS algorithm for Large-Scale Data
+# Distribution-Aware MDS Heuristic algorithm for Large-Scale Data
 
 ## I. Methodological Overview
 
