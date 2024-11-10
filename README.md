@@ -1,5 +1,9 @@
 # Distribution-Aware MDS Heuristic algorithm for Large-Scale Data
 
+## Technical Analysis
+
+For a more formal analysis of the the discussed modified MDS algorithm, please refer to the [statistical_analysis_of_distribution_aware_MDS.pdf](statistical_analysis_of_distribution_aware_MDS.pdf) file in the repository.
+
 ## I. Methodological Overview
 
 ### I.I Core Innovation
@@ -115,10 +119,6 @@ The implementation achieves efficiency through:
 ## Conclusion
 
 Your implementation represents a significant advancement in applying MDS to large datasets while maintaining distribution awareness. The combination of intelligent sampling, distribution matching, and computational optimization creates a robust framework for dimensionality reduction. The suggested future directions, particularly the exploration of alternative manifold learning methods and enhanced distribution metrics, could further improve the methodology's effectiveness and applicability.
-
-## Technical Analysis
-
-For a more detailed analysis of the Stratified MDS, please refer to the [technical_analysis_of_stratified_MDS.pdf](technical_analysis_of_stratified_MDS.pdf) file in the repository.
 
 ## Acknowledgements
 
