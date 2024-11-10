@@ -7,7 +7,7 @@ For a more formal analysis of the the discussed modified MDS algorithm, please r
 ## I. Methodological Overview
 
 ### I.I Core Innovation
-Your implementation addresses a fundamental challenge in applying Multidimensional Scaling (MDS) to large datasets by introducing a distribution-aware sampling approach. The key innovation lies in maintaining statistical fidelity while reducing computational complexity through intelligent sampling.
+This implementation addresses a fundamental challenge in applying Multidimensional Scaling (MDS) to large datasets by introducing a distribution-aware sampling approach. The key innovation lies in maintaining statistical fidelity while reducing computational complexity through intelligent sampling.
 
 ### I.II Implementation Strategy
 The methodology follows a three-tier approach:
@@ -118,7 +118,7 @@ The implementation achieves efficiency through:
 
 ## Conclusion
 
-Your implementation represents a significant advancement in applying MDS to large datasets while maintaining distribution awareness. The combination of intelligent sampling, distribution matching, and computational optimization creates a robust framework for dimensionality reduction. The suggested future directions, particularly the exploration of alternative manifold learning methods and enhanced distribution metrics, could further improve the methodology's effectiveness and applicability.
+This development represents a significant advancement in applying MDS to large datasets while maintaining distribution awareness. The combination of intelligent sampling, distribution matching, and computational optimization creates a robust framework for dimensionality reduction. The suggested future directions, particularly the exploration of alternative manifold learning methods and enhanced distribution metrics, could further improve the methodology's effectiveness and applicability.
 
 ## Acknowledgements
 
