@@ -18,7 +18,7 @@ The methodology follows a three-tier approach:
 ## II. Technical Implementation Analysis
 
 ### II.I Sampling Strategy
-Your implementation uses the `DistributionAwareStratifiedSampler` class with several notable features:
+My implementation uses the `DistributionAwareStratifiedSampler` class with several notable features:
 
 ```python
 class DistributionAwareStratifiedSampler:
